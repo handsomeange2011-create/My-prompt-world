@@ -1,0 +1,11 @@
+{
+  "engineer": "Your Name",
+  "experience": "3 Years",
+  "philosophy": "Precision over Prose.",
+  "specialization": [
+    "Autonomous Agents",
+    "RAG Optimization",
+    "Multi-Modal Prompting"
+  ],
+  "current_focus": "Fine-tuning Small Language Models (SLMs) for edge computing."
+}
